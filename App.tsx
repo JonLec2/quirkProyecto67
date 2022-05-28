@@ -33,6 +33,9 @@ import MarkdownArticleScreen from "./src/articles/MarkdownArticleScreen";
     
 
 
+  //Segundo cambio
+
+
 // Fixes a bug on OnePlus phones which have some buggy font by default
 if (Platform.OS === "android") {
   setCustomText({
